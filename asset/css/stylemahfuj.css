@@ -1,0 +1,1918 @@
+html, body, div, span,
+h1, h2, h3, p, a, img, ul, li,
+article, figure, footer, header,
+menu, nav, span, section{
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+box-sizing: border-box;
+-webkit-box-sizing: border-box;
+list-style: none;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+}
+
+.rightjv img{
+width: 100%;
+height: auto;
+}
+
+@media screen and (min-width:960px) {
+/*#######################################################################"*/
+/*###################   Mahfuj Section Page 01   ####################"*/
+/*######################################################################"*/
+
+/*##########NAV BAR###########*/
+header {
+width: 100%;
+height: auto;
+}
+
+ul.navbar-nav {
+z-index: 5;
+}
+
+nav {
+width: 100%;
+}
+
+#logo {
+margin-left: 365px;
+margin-top: 90px;
+position: absolute;
+}
+
+
+body {
+background: black;
+color: white;
+font-family: 'Montserrat', sans-serif;
+width: 100%;
+height: auto;
+}
+
+main {
+width: 1280px;
+max-width: 1280px;
+height: auto;
+margin: auto;
+}
+
+.sec1 {
+width: 100%;
+height: auto;
+margin: 0 auto;
+}
+
+#logo .backimage1 figure {
+margin: 0rem;
+}
+
+.backimage1 img {
+width: 100%;
+height: 100%;
+display: block;
+margin-bottom: 0px;
+z-index: 1;
+}
+
+article.articlegauch {
+width: 200px;
+background: white;
+height: 335px;
+margin-top: 0px;
+position: relative;
+padding: 1%;
+
+}
+
+.articlegauch p{
+color: #983b00;
+font-size: 13px;}
+
+.articlegauch > p > span{
+height: 0px;
+width: 163px;
+float: left;
+border: 1px solid #983b00;
+}
+
+.article2 {
+color: black;
+width: 445px;
+height: 475px;
+margin-left: 200px;
+padding-left: 20px;
+padding-top: 20px;
+padding-right: 20px;
+justify-content: center;
+background: white;
+font-size: 14px;
+margin-top: -475px;
+padding-right: 5px;
+z-index: 2;
+position: absolute;
+}
+
+.article3 {
+color: black;
+width: 445px;
+height: 475px;
+margin-left: 645px;
+padding-top: 20px;
+padding-right: 20px;
+padding-left: 20px;
+justify-content: center;
+background: white;
+font-size: 14px;
+margin-top: -475px;
+z-index: 2;
+position: absolute;
+}
+
+.article4 {
+float: right;
+width: 190px;
+height: 335px;
+background: white;
+margin-top: -335px;
+position: relative;
+}
+
+h5 {
+color: orange;
+}
+
+/************** Form ******************/
+
+form {
+margin-left: 720px;
+margin-top: 80px;
+width: 260px;
+position: absolute;
+height: 180px;
+border: 1px solid white;
+color: white;
+border-radius: 3px;
+}
+
+input.form {
+margin: 10px;
+border-radius: 3px;
+padding: 7px 5px 7px 5px;
+border: none;
+font-size: 12px;
+width: 238px;
+}
+
+label {
+margin-left: 10px;
+margin-top: 10px;
+}
+
+.send {
+background: #8E4130;
+margin-left: 10px;
+width: 238px;
+padding-top: 5px;
+padding-bottom: 5px;
+color: white;
+border: none;}
+/*FIN MAHFUJ*/
+
+/*#######################################################################"*/
+/*###################   Yann Section Page 02   ####################"*/
+/*######################################################################"*/
+
+h2.titre-yg{
+text-align: center;
+margin-top: 24px;
+color: white;
+font-size: 60px;
+margin-right: 70px;
+}
+
+
+/*Le grand conteneur*/
+
+
+#page2 {
+height: auto;
+display: flex;
+background: black;
+width: 100%;
+padding-left: 13%;
+}
+
+/*Le grand conteneur*/
+
+/* Selecteur de toutes mes sections */
+#page2 section{
+
+}
+/* Selecteur de toutes mes sections */
+
+
+
+.ar-yg figcaption {
+color: white;
+margin-top: 10px;
+font-size: 36px;
+margin-bottom: 52px;
+}
+
+
+/*ma premiere section */
+
+#premier{
+margin-right: 2%;
+}
+/* ma premiere section */
+
+/*mes  deux premiere sections */
+
+.meme {
+width: 435px;
+}
+
+/*mes  deux premiere sections */
+
+/* Ma page2ieme section     */
+
+.page2{
+width: 180px;
+height: 267px;
+padding-top: 150px;
+
+}
+
+/* Ma troisieme section     */
+
+h2.titre-yg span {
+color: #983b00;
+font-weight: 700;
+}
+
+
+.ar-yg img{
+
+width:100%;
+display: block;
+}
+
+.meme img{
+display: block;
+}
+
+.trois{
+height: 180px;
+width: 267px;
+margin-top: 173px;
+padding: 0px 3%;
+}
+#page2 p{
+color: white;
+font-family: 'Montserrat', sans-serif;
+font-size: 14px;
+font-weight: lighter;
+text-align: justify;
+}
+
+/*FIN YANN*/
+
+/*#######################################################################"*/
+/*###################   Julie Section Page 03   ####################"*/
+/*######################################################################"*/
+
+section#page3{
+width: 100%;
+height: auto;
+background: white;
+position: relative;
+}
+
+div#content{
+display: flex;
+flex-direction: row;
+}
+
+/*Titre de la page*/
+.titlejv{
+margin-left: 212px;
+}
+
+.titlejv h2{
+font-size: 60px;
+font-weight: 300;
+margin-bottom: 22px;
+color: black;
+}
+
+.titlejv p{
+font-size: 10px;
+color: #a65522;
+margin-bottom: 8px;
+}
+
+/*Section right*/
+
+.orange{
+  background: rgba(203,157,127,.5);
+  width: 181px;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+
+}
+
+.leftjv figcaption{
+width: 435px;
+height: 57px;
+text-align: start;
+margin-left: 33%;
+}
+
+.leftjv button{
+margin-left: 79%;
+width: 139px;
+height: 30px;
+background: none;
+border: none;
+font-size: 12px;
+line-height: 29px;
+}
+
+.leftjv button:hover{
+background: #a92121;
+}
+
+.leftjv button img{
+float: left;
+}
+
+/*section left*/
+
+article.rightjv{
+width:489px;
+height: 618px;
+position: relative;
+}
+
+.rightjv h3{
+font-size: 24px;
+color: #a65522;
+}
+
+p.cotejv{
+transform: rotate(-90deg);
+position: absolute;
+left: -59px;
+top: 63px;
+font-size: 24px;
+color: black;
+}
+
+div.textjv{
+margin-left: 50px;
+}
+
+p.descriptionjv{
+font-size: 14px;
+text-transform: uppercase;
+font-weight: 300;
+color: black;
+}
+
+h3:nth-of-type(1){
+margin-top: 24px;
+margin-bottom: 28px;
+}
+
+h3:nth-of-type(2){
+margin-top: 28px;
+margin-bottom: 28px;
+}
+
+span{
+font-weight: 700;
+color: #a65522;
+}
+/*FIN JULIE*/
+
+/*#######################################################################"*/
+/*###################   Laurianne Section Page 04   ####################"*/
+/*######################################################################"*/
+
+section#page04{
+background: #000;
+width: 1280px;
+height: 800px;
+color: white;
+text-transform: uppercase;
+font-weight: 700;
+margin: 0 auto;
+}
+
+/*#####################################*/
+/*################### Article 1 (1975) */
+
+section#page04 > article:nth-of-type(1){
+float: none;
+width: 83%;
+height: 181px;
+padding-top: 25px;
+margin: 0 9% 0 8%;
+z-index: 1;
+}
+/* Paragraphe 19 */
+section#page04 > article:nth-of-type(1) > p:nth-child(1){
+float: left;
+text-align: right;
+background: #983b00;
+color: black;
+width: 606px;
+height: 118px;
+font-size: 200px;
+line-height: 160px;
+font-weight: 700;
+margin-top: 37px;
+padding-right: 20px;
+
+}
+/* Paragraphe 75 */
+section#page04 > article:nth-of-type(1) > p:last-child{
+float: left;
+background: white;
+width: 455px;
+height: 156px;
+font-size: 332.85px;
+line-height: 240px;
+font-weight: 700;
+color: #983b00;
+
+}
+
+/*#####################################*/
+/*################### Article 2 #######*/
+
+section#page04 > article:last-child{
+float: right;
+width: 100%;
+height: 620px;
+z-index: 2;
+background: url(../img/Ray.png) bottom left no-repeat;
+background-size: 318px 620px;
+padding: 30px 9% 0 0;
+}
+
+/* Paragraphe Ray*/
+section#page04 > article:last-child > p:nth-child(1){
+width: 404px;
+height: 88px;
+position: absolute;
+background: white;
+color: #000;
+font-size: 48px;
+font-weight: 700;
+transform: rotate(-90deg);
+padding: 15px 0 15px 20px;
+margin: 127px 0 0 15%;
+}
+
+/* Paragraphe gris */
+section#page04 > article:last-child > p:nth-child(2){
+font-size: 14px;
+color: #939598;
+width: 55%;
+float: right;
+font-weight: 700;
+}
+
+/* Separateur */
+section#page04 > article > hr{
+width: 200px;
+height: 2px;
+background: white;
+margin: 15px 0 20px 0;
+float: right;
+margin-right: 38%;
+}
+
+/* Paragraphe rouge */
+section#page04 > article:last-child > p:last-child{
+color: #983b00;
+font-size: 48px;
+width: 55%;
+float: right;
+font-weight: 700;
+}
+}
+
+@media screen and (min-width: 768px) and (max-width: 959px){
+
+/*#######################################################################"*/
+/*###################   MAHFUJ Section Page 01   #########################"*/
+/*######################################################################"*/
+ul.navbar-nav {
+z-index: 5;
+}
+nav {
+width: 100%;
+}
+
+#logo {
+  margin-left: 14%;
+  margin-top: 7%;
+position: absolute;}
+
+body {
+font-family: 'Montserrat', sans-serif;
+width: 100%;
+height: auto;}
+
+main {
+width: 100%;
+height: auto;
+margin-top: 50px;
+max-width: 959px;
+height: auto;
+margin: auto;
+}
+
+.sec1 {
+width: 100%;
+height: auto;
+margin: 0 auto;
+margin-top: 50px;}
+
+.sec1 p{
+font-size: 12px;
+}
+
+figure {
+margin: 0rem;
+}
+
+.backimage1 img {
+width: 100%;
+height: 100%;
+display: block;
+margin-bottom: 0px;
+z-index: 1;
+}
+
+article.articlegauch {
+width:100%;
+background: white;
+}
+
+.articlegauch p{
+color: #983b00;
+width: 80%;
+height: 150px;
+padding: 30px;
+text-align: justify;
+}
+
+
+.article2 {
+width: 100%;
+text-align: justify;
+padding: 20px 20px 0px 20px;
+background: white;
+}
+
+.article3 {
+width: 100%;
+height: auto;
+text-align: justify;
+margin-left: 0px;
+padding: 20px;
+background: white;
+}
+
+.article4 {
+float: right;
+width: 190px;
+height: 335px;
+background: white;
+margin-top: -335px;
+position: relative;
+display: none;}
+
+h5 {
+color: orange;
+}
+
+/************** Form ******************/
+
+form {
+margin-left: 450px;
+margin-top: 80px;
+width: 260px;
+position: absolute;
+height: 180px;
+border: 1px solid white;
+color: white;
+border-radius: 3px;}
+
+input.form {
+margin: 10px;
+border-radius: 3px;
+padding: 7px 5px 7px 5px;
+border: none;
+font-size: 12px;
+width: 238px;}
+
+label {
+margin-left: 10px;
+margin-top: 10px;}
+
+.send {
+background: #8E4130;
+width: 238px;
+padding-top: 5px;
+padding-bottom: 5px;
+color: white;
+border: none;}
+
+/*#######################################################################"*/
+/*###################   Yann Section Page 02   #########################"*/
+/*######################################################################"*/
+
+/* Le grand conteneur*/
+.grandconteneur{
+background: black;
+}
+.titre-yg {
+text-align: center;
+color: white;
+font-size: 50px;
+margin-top: 10px;
+}
+
+
+
+div#page2 {
+
+width: 100%;
+height: auto;
+display: flex;
+flex-wrap: wrap;
+background: black;
+}
+
+/* Le grand conteneur*/
+
+/*    Selecteur de toutes mes sections*/
+
+
+.meme{
+margin: 0 auto;
+}
+
+/*    Selecteur de toutes mes sections*/
+
+
+#page2 figcaption {
+color: white;
+font-size: 36px;
+margin-left: 26%;
+}
+
+h2.titre-yg span {
+color: #983b00;
+font-weight: 700;
+}
+
+.meme img{
+display: block;
+margin: auto;
+}
+
+
+.ar-yg img{
+display: block;
+margin: auto;
+}
+
+#page2 p{
+color: white;
+font-family: 'Montserrat', sans-serif;
+font-size: 15px;
+font-weight: lighter;
+text-align: justify;
+margin-bottom: 5%;
+}
+
+/*paragraphe de la premiere image et de la deuxieme image*/
+
+
+div.par{
+width: 80%;
+margin: auto;
+}
+
+div.droite {
+width: 90%;
+margin: auto;
+}
+
+/*P troisème section*/
+
+.droite p{
+width: 80%;
+margin: auto;
+}
+
+/*#######################################################################"*/
+/*###################   Julie Section Page 03     ####################"*/
+/*######################################################################"*/
+section#page3{
+width: 100%;
+height: auto;
+background: white !important;
+position: relative;
+}
+div#content{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+/*Titre de la page*/
+.titlejv {
+margin-left: 212px;
+}
+.titlejv h2{
+font-size: 60px;
+font-weight: 300;
+margin-bottom: 22px;
+}
+
+.titlejv p{
+font-size: 10px;
+color: #a65522;
+margin-bottom: 8px;
+}
+
+/*Section left*/
+
+.orange{
+  background: rgba(203,157,127,.5);
+  width: 181px;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.leftjv figcaption{
+width: 435px;
+height: 57px;
+text-align: start;
+margin-left: 21%;
+}
+
+.leftjv button{
+margin-left: 65%;
+width: 139px;
+height: 30px;
+background: none;
+border: none;
+font-size: 12px;
+line-height: 29px;
+}
+
+.leftjv button:hover{
+background: #a92121;
+}
+
+.leftjv button img{
+float: left;
+}
+
+/*section right*/
+
+.rightjv br{
+display: none;
+}
+
+.rightjv{
+width: 489px;
+height: 618px;
+position: relative;
+margin-left: 16%;
+margin-bottom: 2%;
+}
+
+.rightjv h3{
+font-size: 24px;
+color: #a65522;
+}
+
+p.cotejv{
+margin-bottom: 10px;
+font-size: 24px;
+}
+
+div.textjv{
+display: flex;
+flex-direction: column;
+width: 100%;
+}
+
+p.descriptionjv{
+font-size: 14px;
+text-transform: uppercase;
+font-weight: 300;
+width: 54vw;
+text-align: justify;
+}
+
+h3:nth-of-type(1){
+margin-top: 24px;
+margin-bottom: 28px;
+}
+
+h3:nth-of-type(2){
+margin-top: 28px;
+margin-bottom: 28px;
+}
+
+span{
+font-weight: 700;
+color: #a65522;
+}
+
+/*############################################################*/
+/*###################   Section Page 04   ####################*/
+/*############################################################*/
+
+section#page04{
+background: black;
+width: 100%;
+height: auto;
+text-transform: uppercase;
+overflow: hidden;
+font-weight: 700;
+}
+
+/*#####################################*/
+/*################### Article 1 (1975) */
+
+section#page04 > article:nth-of-type(1){
+float: left;
+width: 83%;
+height: auto;
+padding-top: 25px;
+margin: 0 9% 0% 8%;
+min-width: 768px;
+}
+/* Paragraphe 19 */
+section#page04 > article:nth-of-type(1) > p:nth-child(1){
+float: left;
+text-align: right;
+background: #983b00;
+color: black;
+width: 47%;
+height: 118px;
+font-size: 200px;
+line-height: 160px;
+font-weight: 700;
+margin-top: 37px;
+margin-bottom: 87px;
+padding-right: 20px;
+
+}
+/* Paragraphe 75 */
+section#page04 > article:nth-of-type(1) > p:last-child{
+float: left;
+background: white;
+width: 53%;
+height: 156px;
+font-size: 332.85px;
+line-height: 240px;
+font-weight: 700;
+color: #983b00;
+
+}
+
+/*#####################################*/
+/*################### Article 2 #######*/
+
+section#page04 > article:last-child{
+float: right;
+width: 100%;
+height: auto;
+background-size: 10%;
+padding: 30px 9% 0 0;
+background: url(../img/Ray.png) bottom left no-repeat;
+background-size: 20%;
+min-width: 768px;
+
+}
+
+
+
+
+/* Paragraphe Ray*/
+section#page04 > article:last-child > p:nth-child(1){
+width: 404px;
+height: 88px;
+position: absolute;
+background: white;
+color: #000;
+font-size: 48px;
+font-weight: 700;
+transform: rotate(-90deg);
+padding: 15px 0 15px 20px;
+margin-top: 40px;
+margin-left: -6%;
+}
+
+/* Paragraphe gris */
+section#page04 > article:last-child > p:nth-child(2){
+font-size: 14px;
+color: #939598;
+width: 70%;
+height: auto;
+float: right;
+font-weight: 700;
+}
+
+/* Separateur */
+section#page04 > article > hr{
+width: 200px;
+height: 2px;
+background: white;
+margin: 15px 0 20px 0;
+float: right;
+margin-right: 41%;
+}
+
+/* Paragraphe rouge */
+section#page04 > article:last-child > p:last-child{
+color: #983b00;
+font-size: 48px;
+width: 70%;
+height: auto;
+float: right;
+font-weight: 700;
+}
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+
+ul.navbar-nav {
+z-index: 5;
+}
+nav {
+width: 100%;
+}
+
+#logo {
+  margin-left: 14%;
+  margin-top: 7%;
+position: absolute;}
+
+body {
+font-family: 'Montserrat', sans-serif;
+width: 100%;
+height: auto;
+}
+
+main {
+width: 100%;
+height: auto;
+margin-top: 50px;
+max-width: 959px;
+height: auto;
+margin: auto;
+}
+
+.sec1 {
+width: 100%;
+height: auto;
+margin: 0 auto;
+margin-top: 50px;}
+
+.sec1 p{
+font-size: 12px;
+}
+
+figure {
+margin: 0rem;
+}
+
+.backimage1 img {
+width: 100%;
+height: 100%;
+display: block;
+margin-bottom: 0px;
+z-index: 1;
+}
+
+article.articlegauch {
+width:100%;
+background: white;
+}
+
+.articlegauch p{
+color: #983b00;
+width: 80%;
+height: 150px;
+padding: 30px;
+text-align: justify;
+}
+
+
+.article2 {
+width: 100%;
+text-align: justify;
+padding: 20px 20px 0px 20px;
+background: white;
+}
+
+.article3 {
+width: 100%;
+height: auto;
+text-align: justify;
+margin-left: 0px;
+padding: 20px;
+background: white;
+}
+
+.article4 {
+float: right;
+width: 190px;
+height: 335px;
+background: white;
+margin-top: -335px;
+position: relative;
+display: none;}
+
+h5 {
+color: orange;
+}
+
+/************** Form ******************/
+
+form {
+margin-left: 50%;
+margin-top: 30px;
+width: 220px;
+position: absolute;
+height: 140px;
+border: 1px solid white;
+color: white;
+border-radius: 3px;
+display: block;}
+
+
+input.form {
+margin: 4px;
+margin-left: 8px;
+border-radius: 3px;
+padding: 7px 3px 7px 3px;
+border: none;
+font-size: 8px;
+width: 200px;}
+
+label {
+margin-left: 5px;
+margin-top: 5px;}
+
+.send {
+background: #8E4130;
+margin-left: 8px;
+width: 200px;
+margin-top: 5px;
+padding-top: 3px;
+padding-bottom: 3px;
+color: white;
+border: none;}
+
+/************** Fin de  Form ******************/
+
+
+/*#######################################################################"*/
+/*###################   Yann Section Page 02   #########################"*/
+/*######################################################################"*/
+
+.grandconteneur {
+background: black;
+}
+.titre-yg {
+text-align: center;
+color: white;
+font-size: 50px;
+padding: 3% 0%;
+}
+
+/*Le grand conteneur*/
+
+div#page2 {
+width: 100%;
+height: auto;
+display: flex;
+flex-wrap: wrap;
+}
+
+/*Le grand conteneur*/
+
+/*Selecteur de toutes mes sections*/
+
+#page2 section{
+width: 90%;
+margin: 0 auto;
+background: black;
+}
+/*Selecteur de toutes mes sections*/
+
+#page2 figcaption {
+color: white;
+font-size: 36px;
+
+}
+
+.titre-yg span {
+color: #983b00;
+font-weight: 700;
+}
+
+.ar-yg img{
+width:auto;
+display: block;
+margin: auto;
+}
+
+
+
+.meme img{
+width:auto;
+display: block;
+margin: auto;
+
+}
+
+#page2 p{
+color: white;
+font-family: 'Montserrat', sans-serif;
+font-size: 12px;
+font-weight: lighter;
+text-align: justify;
+margin: auto;
+}
+
+
+/*paragraphe de la premiere image et de la deuxieme image*/
+
+
+div.par{
+width: 90%;
+margin: auto;
+}
+
+
+div.droite {
+width: 90%;
+margin: auto auto 3% auto;
+
+}
+
+
+/*paragraphe de la premiere image et de la deuxieme image*/
+
+
+
+/*#######################################################################"*/
+/*###################   Julie Section Page 03     ####################"*/
+/*######################################################################"*/
+
+section#page4{
+width: 100%;
+height: auto;
+}
+div#content{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+/*Titre de la page*/
+.titlejv{
+margin-left: 118px;
+}
+.titlejv h2{
+font-size: 40px;
+font-weight: 300;
+margin-bottom: 22px;
+color: black;
+}
+
+.titlejv p{
+font-size: 10px;
+color: #a65522;
+margin-bottom: 8px;
+}
+
+/*Section left*/
+
+.orange{
+  background: rgba(203,157,127,.5);
+  width: 181px;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.leftjv img{
+width: 80%;
+}
+
+.leftjv figcaption{
+color: black;
+
+font-size: 13px;
+
+margin-left: 23%;
+}
+
+.leftjv button{
+margin: 5% 0% 5% 41%;
+width: 139px;
+height: 30px;
+background: none;
+border: none;
+font-size: 12px;
+line-height: 29px;
+}
+
+.leftjv button img {
+
+float: left;
+width: 20%;
+
+}
+
+/*section right*/
+
+.rightjv br{
+display: none;
+}
+
+article.rightjv{
+height: 618px;
+margin-left: 8vw;
+}
+
+.rightjv h3{
+font-size: 20px;
+color: #a65522;
+}
+
+p.cotejv{
+margin-bottom: 10px;
+
+font-size: 20px;
+
+color: black;
+}
+
+div.textjv{
+display: flex;
+flex-direction: column;
+width: 100%;
+}
+
+p.descriptionjv{
+font-size: 12px;
+
+text-transform: uppercase;
+
+font-weight: 300;
+
+width: 54vw;
+
+text-align: justify;
+
+color: black;
+}
+
+h3:nth-of-type(1){
+margin-top: 24px;
+margin-bottom: 28px;
+}
+
+h3:nth-of-type(2){
+margin-top: 28px;
+margin-bottom: 28px;
+}
+
+#page4 span{
+font-weight: 700;
+color: #a65522;
+}
+
+/*############################################################*/
+/*###################   Section Page 04   ####################*/
+/*############################################################*/
+
+section#page04{
+background: black;
+width: 100%;
+height: auto;
+text-transform: uppercase;
+overflow: hidden;
+font-weight: 700;
+}
+
+/*#####################################*/
+/*################### Article 1 (1975) */
+
+section#page04 > article:nth-of-type(1){
+width: 85%;
+height: auto;
+padding-top: 25px;
+padding: 25px 9% 0% 8%;
+min-width: 480px;
+margin: 0 auto;
+}
+/* Paragraphe 19 */
+section#page04 > article:nth-of-type(1) > p:nth-child(1){
+float: left;
+text-align: right;
+background: #983b00;
+color: black;
+width: 47%;
+height: 68px;
+font-size: 100px;
+line-height: 110px;
+font-weight: 700;
+margin-top: 37px;
+margin-bottom: 37px;
+padding-right: 20px;
+
+}
+/* Paragraphe 75 */
+section#page04 > article:nth-of-type(1) > p:last-child{
+float: left;
+background: white;
+width: 53%;
+height: 106px;
+font-size: 166.5px;
+line-height: 140px;
+font-weight: 700;
+color: #983b00;
+
+}
+
+/*#####################################*/
+/*################### Article 2 #######*/
+
+section#page04 > article:last-child{
+float: left;
+width: 100%;
+height: auto;
+background-size: 10%;
+background: url(../img/Ray.png) top 35px left 60% no-repeat;
+background-size: 120px;
+min-width: 480px;
+padding: 15px 20px 0px;
+margin-top: 25px;
+
+}
+
+
+
+
+/* Paragraphe Ray*/
+section#page04 > article:last-child > p:nth-child(1){
+height: 44px;
+width: 202px;
+background: white;
+color: #000;
+text-align: center;
+padding: 11px 0;
+font-size: 48px;
+font-weight: 700;
+line-height: 24px;
+transform: rotate(-90deg);
+margin-top: 100px;
+margin-left: 20%;
+}
+
+/* Paragraphe gris */
+section#page04 > article:last-child > p:nth-child(2){
+font-size: 14px;
+color: #939598;
+width: 100%;
+height: auto;
+font-weight: 700;
+text-align: justify;
+margin-top: 150px;
+}
+
+/* Separateur */
+section#page04 > article > hr{
+width: 200px;
+height: 2px;
+background: white;
+margin: 15px 0 20px 0;
+}
+
+/* Paragraphe rouge */
+section#page04 > article:last-child > p:last-child{
+color: #983b00;
+font-size: 32px;
+width: 100%;
+height: auto;
+font-weight: 700;
+}
+
+}
+
+@media screen and (max-width: 479px) {
+
+ul.navbar-nav {
+z-index: 5;
+}
+
+nav {
+width: 100%;
+}
+
+#logo {
+  margin-left: 14%;
+  margin-top: 7%;
+position: absolute;
+}
+
+body {
+font-family: 'Montserrat', sans-serif;
+width: 100%;
+height: auto;
+}
+
+main {
+width: 100%;
+height: auto;
+margin-top: 50px;
+max-width: 959px;
+height: auto;
+margin: auto;
+}
+
+.sec1 {
+width: 100%;
+height: auto;
+margin: 0 auto;
+margin-top: 50px;
+}
+
+.sec1 p{
+font-size: 12px;
+}
+
+figure {
+margin: 0rem;
+}
+
+.backimage1 img {
+width: 100%;
+height: 100%;
+display: block;
+margin-bottom: 0px;
+z-index: 1;
+}
+
+article.articlegauch {
+width:100%;
+background: white;
+}
+
+.articlegauch p{
+color: #983b00;
+width: 80%;
+height: 150px;
+padding: 30px;
+text-align: justify;
+}
+
+
+.article2 {
+width: 100%;
+text-align: justify;
+padding: 20px 20px 0px 20px;
+background: white;
+}
+
+.article3 {
+width: 100%;
+height: auto;
+text-align: justify;
+margin-left: 0px;
+padding: 20px;
+background: white;
+}
+
+.article4 {
+float: right;
+width: 190px;
+height: 335px;
+background: white;
+margin-top: -335px;
+position: relative;
+display: none;}
+
+h5 {
+color: orange;
+}
+
+/************** Form ******************/
+
+form {
+margin-left: 50%;
+margin-top: 21px;
+width: 220px;
+position: absolute;
+height: 140px;
+border: 1px solid white;
+color: white;
+border-radius: 3px;
+display: block;}
+
+
+input.form {
+margin: 4px;
+margin-left: 8px;
+border-radius: 3px;
+padding: 7px 3px 7px 3px;
+border: none;
+font-size: 8px;
+width: 200px;}
+
+label {
+margin-left: 5px;
+margin-top: 5px;}
+
+.send {
+background: #8E4130;
+margin-left: 8px;
+width: 200px;
+margin-top: 5px;
+padding-top: 3px;
+padding-bottom: 3px;
+color: white;
+border: none;}
+
+/************** Fin de  Form ******************/
+
+
+/*#######################################################################"*/
+/*###################   Yann Section Page 02   #########################"*/
+/*######################################################################"*/
+
+.grandconteneur {
+background: black;
+}
+.titre-yg {
+text-align: center;
+color: white;
+font-size: 50px;
+padding: 3% 0%;
+}
+
+/*Le grand conteneur*/
+
+div#page2 {
+width: 100%;
+height: auto;
+display: flex;
+flex-wrap: wrap;
+}
+
+/*Le grand conteneur*/
+
+/*Selecteur de toutes mes sections*/
+
+#page2 section{
+width: 90%;
+margin: 0 auto;
+background: black;
+}
+/*Selecteur de toutes mes sections*/
+
+#page2 figcaption {
+color: white;
+font-size: 36px;
+
+}
+
+.titre-yg span {
+color: #983b00;
+font-weight: 700;
+}
+
+.ar-yg img{
+width:auto;
+display: block;
+margin: auto;
+}
+
+
+
+.meme img{
+width:auto;
+display: block;
+margin: auto;
+
+}
+
+#page2 p{
+color: white;
+font-family: 'Montserrat', sans-serif;
+font-size: 12px;
+font-weight: lighter;
+text-align: justify;
+margin: auto;
+}
+
+
+/*paragraphe de la premiere image et de la deuxieme image*/
+
+
+div.par{
+width: 90%;
+margin: auto;
+}
+
+
+div.droite {
+width: 90%;
+margin: auto auto 3% auto;
+
+}
+
+
+/*paragraphe de la premiere image et de la deuxieme image*/
+
+
+
+/*#######################################################################"*/
+/*###################   Julie Section Page 03     ####################"*/
+/*######################################################################"*/
+
+section#page3{
+width: 100%;
+height: auto;
+margin-bottom: 25%;
+position: relative;
+}
+div#content{
+display: flex;
+flex-direction: column;
+align-items: center;
+align-content: center;
+}
+
+/*Titre de la page*/
+.titlejv{
+margin-left: 118px;
+}
+.titlejv h2{
+font-size: 42px;
+font-weight: 300;
+margin-bottom: 22px;
+color: black;
+}
+
+.titlejv p{
+font-size: 10px;
+color: #a65522;
+margin-bottom: 8px;
+}
+
+/*Section left*/
+
+.orange{
+  background: rgba(203,157,127,.5);
+  width: 181px;
+  height: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.leftjv img{
+width: 80%;
+}
+
+.leftjv figcaption{
+color: black;
+font-size: 13px;
+margin-left: 23%;
+}
+
+.leftjv button{
+margin: 5% 0% 5% 36%;
+width: 139px;
+height: 30px;
+background: none;
+border: none;
+font-size: 12px;
+line-height: 29px;
+}
+
+.leftjv button img {
+
+float: left;
+width: 20%;
+
+}
+
+/*section right*/
+
+.rightjv br{
+display: none;
+}
+
+article.rightjv{
+height: auto;
+margin: auto;
+
+}
+
+.rightjv h3{
+font-size: 20px;
+color: #a65522;
+}
+
+p.cotejv{
+margin-bottom: 10px;
+
+font-size: 20px;
+
+color: black;
+}
+
+div.textjv{
+display: flex;
+flex-direction: column;
+width: 100%;
+align-items: center;
+}
+
+p.descriptionjv{
+font-size: 12px;
+
+text-transform: uppercase;
+
+font-weight: 300;
+
+width: 54vw;
+
+text-align: justify;
+
+color: black;
+}
+
+h3:nth-of-type(1){
+margin-top: 24px;
+margin-bottom: 28px;
+}
+
+h3:nth-of-type(2){
+margin-top: 28px;
+margin-bottom: 28px;
+}
+
+#page4 span{
+font-weight: 700;
+color: #a65522;
+}
+
+/*############################################################*/
+/*###################   Section Page 04   ####################*/
+/*############################################################*/
+
+section#page04{
+background: black;
+width: 100%;
+height: auto;
+text-transform: uppercase;
+overflow: hidden;
+font-weight: 700;
+}
+
+/*#####################################*/
+/*################### Article 1 (1975) */
+
+section#page04 > article:nth-of-type(1){
+width: 85%;
+height: auto;
+padding-top: 25px;
+padding: 25px 9% 0% 8%;
+min-width: 480px;
+margin: 0 auto;
+}
+/* Paragraphe 19 */
+section#page04 > article:nth-of-type(1) > p:nth-child(1){
+float: left;
+text-align: right;
+background: #983b00;
+color: black;
+width: 47%;
+height: 68px;
+font-size: 100px;
+line-height: 110px;
+font-weight: 700;
+margin-top: 37px;
+margin-bottom: 37px;
+padding-right: 20px;
+
+}
+/* Paragraphe 75 */
+section#page04 > article:nth-of-type(1) > p:last-child{
+float: left;
+background: white;
+width: 53%;
+height: 106px;
+font-size: 166.5px;
+line-height: 140px;
+font-weight: 700;
+color: #983b00;
+
+}
+
+/*#####################################*/
+/*################### Article 2 #######*/
+
+section#page04 > article:last-child{
+float: left;
+width: 100%;
+height: auto;
+background-size: 10%;
+background: url(../img/Ray.png) top 35px left 60% no-repeat;
+background-size: 120px;
+min-width: 480px;
+padding: 15px 20px 0px;
+margin-top: 25px;
+
+}
+
+
+
+
+/* Paragraphe Ray*/
+section#page04 > article:last-child > p:nth-child(1){
+height: 44px;
+width: 202px;
+background: white;
+color: #000;
+text-align: center;
+padding: 11px 0;
+font-size: 48px;
+font-weight: 700;
+line-height: 24px;
+transform: rotate(-90deg);
+margin-top: 100px;
+margin-left: 20%;
+}
+
+/* Paragraphe gris */
+section#page04 > article:last-child > p:nth-child(2){
+font-size: 14px;
+color: #939598;
+width: 100%;
+height: auto;
+font-weight: 700;
+text-align: justify;
+margin-top: 150px;
+}
+
+/* Separateur */
+section#page04 > article > hr{
+width: 200px;
+height: 2px;
+background: white;
+margin: 15px 0 20px 0;
+}
+
+/* Paragraphe rouge */
+section#page04 > article:last-child > p:last-child{
+color: #983b00;
+font-size: 32px;
+width: 100%;
+height: auto;
+font-weight: 700;
+}
+
+
+}
